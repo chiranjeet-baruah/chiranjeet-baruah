@@ -8,8 +8,4 @@
   </a>
 </p>
 <br>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeet14&layout=compact)]
-<br>
-
-[![chiranjeet14' Activity Graph](https://activity-graph.herokuapp.com/graph?username=chiranjeet14&custom_title=Chiranjeet%20Baruah's%20Contribution%20Graph&theme=vue-dark&bg_color=282828&count_private=true&cache_seconds=1800&line=d1a01f&point=c58545)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeet14&layout=compact&count_private=true&cache_seconds=1800)](https://github.com/chiranjeet14)
