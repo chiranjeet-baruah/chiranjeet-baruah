@@ -3,8 +3,8 @@
 ## My Statistics
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chiranjeet14&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeet14&theme=vue-dark&hide_border=true&count_private=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chiranjeet14&show_icons=true&theme=vue-dark&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeet14&theme=vue-dark&count_private=true" />
   </a>
 </p>
 <br>
