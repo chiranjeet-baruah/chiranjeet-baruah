@@ -3,7 +3,7 @@
 ## My Statistics
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The great thing about predictions is that you can be wrong.”— Chris Wiggins❞</i>
+<i>❝“In Data Science if you want to help individuals, be empathetic and ask questions; that way, you can begin to understand their journey, too.”— Damian Duffy Mingle❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
 <p align="left">
