@@ -3,7 +3,7 @@
 ## My Statistics
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
+<i>❝CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
 <p align="left">
