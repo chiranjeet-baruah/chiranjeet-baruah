@@ -3,7 +3,7 @@
 ## My Statistics
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“As data scientists, our job is to extract signal from noise.”— Daniel Tunkelang❞</i>
+<i>❝“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
 <p align="left">
