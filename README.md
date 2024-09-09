@@ -3,7 +3,7 @@
 ## My Statistics
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
+<i>❝“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
 <p align="left">
