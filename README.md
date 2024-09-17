@@ -3,7 +3,7 @@
 ## My Statistics
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   ❞</i>
+<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
 <p align="left">
