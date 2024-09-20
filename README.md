@@ -3,7 +3,7 @@
 ## My Statistics
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
+<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
 <p align="left">
