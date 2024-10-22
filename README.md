@@ -3,7 +3,7 @@
 ## My Statistics
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  ❞</i>
+<i>❝Approximately 70% of virus writers are said to work under contract for organized crime syndicates.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
 <p align="left">
