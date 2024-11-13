@@ -3,7 +3,7 @@
 ## My Statistics
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   ❞</i>
+<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
 <p align="left">
