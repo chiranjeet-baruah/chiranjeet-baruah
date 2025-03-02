@@ -3,7 +3,7 @@
 ## My Statistics
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
+<i>❝“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.”— Jamie Zawinski   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
 <p align="left">
