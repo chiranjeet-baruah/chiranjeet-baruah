@@ -3,7 +3,7 @@
 ## My Statistics
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
+<i>❝The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
 <p align="left">
