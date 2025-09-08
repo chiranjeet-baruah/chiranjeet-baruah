@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.  In other words, hoaxes prey on the Human Operating System.”— Stewart Kirkpatrick   ❞</i>
+<i>❝“There’s no obfuscated Perl contest because it’s pointless.”— Jeff Polk   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
