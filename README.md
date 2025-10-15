@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
+<i>❝“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
