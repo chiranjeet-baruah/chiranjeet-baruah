@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  ❞</i>
+<i>❝“Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.”— Dan Hurvitz   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
