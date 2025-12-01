@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The US Federal Register is still using floppy disks sent by courier because a secure e-mail system is “too expensive”.❞</i>
+<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
