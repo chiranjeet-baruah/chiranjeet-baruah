@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.❞</i>
+<i>❝The first word spoken on the internet was “lo”. It was supposed to be “login” but the computer crashed after the first two letters.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
