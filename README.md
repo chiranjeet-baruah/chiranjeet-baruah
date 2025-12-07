@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  ❞</i>
+<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
