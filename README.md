@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In Data Science if you want to help individuals, be empathetic and ask questions; that way, you can begin to understand their journey, too.”— Damian Duffy Mingle❞</i>
+<i>❝During IBM Watson’s Jeopardy Game, it stored all 15 terabytes of its knowledge in RAM, including every page of Wikipedia in existence.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
