@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
+<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
