@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   ❞</i>
+<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
