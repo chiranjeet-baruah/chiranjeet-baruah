@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
+<i>❝“The world is one big data problem.”— Andrew McAfee❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
