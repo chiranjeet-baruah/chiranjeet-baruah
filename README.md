@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Amazon was a hard cover book seller, but actually now sells more e-books than hard covers❞</i>
+<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br/>
